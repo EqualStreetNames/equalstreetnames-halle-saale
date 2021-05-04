@@ -1,13 +1,11 @@
 name,source,gender,wikidata,type
 Gertrud-Bergmann-Weg,wikidata,,Q106522109,way
-Kurt-Wüsteneck-Straße,wikidata,,Q106580452,way
 Louis-Jentzsch-Straße,wikidata,,Q106522248,way
 Philipp-von-Ladenberg-Straße,wikidata,,Q106522296,way
 Aalweg,,,,way
 "Abzweig Zöberitz",,,,way
 Achatweg,,,,way
 Ackerweg,,,,way
-Adam-Kuckhoff-Straße,,,,way
 Adolfstraße,,,,way
 Advokatenweg,,,,way
 Agavenweg,,,,way
@@ -15,9 +13,6 @@ Ahornweg,,,,way
 Akazienweg,,,,way
 Akeleistraße,,,,way
 "Akener Bogen",,,,way
-Albert-Einstein-Straße,,,,way
-Albert-Schweitzer-Straße,,,,way
-Alfred-Reinhardt-Straße,,,,way
 Alpenveilchenweg,,,,way
 Altböllberg,,,,way
 "Alte Heerstraße",,,,way
@@ -137,7 +132,6 @@ Anglerstraße,,,,way
 "Anhalter Platz",,,,way
 "Anhalter Straße",,,,way
 Ankerstraße,,,,way
-Anna-Schubring-Straße,,,,way
 "Annaberger Straße",,,,way
 Apfelweg,,,,way
 "Apoldaer Straße",,,,way
@@ -150,8 +144,6 @@ Aue,,,,way
 Auenblick,,,,way
 Auenweg,,,,way
 Auestraße,,,,way
-August-Bebel-Platz,,,,relation
-August-Bebel-Straße,,,,way
 Augustastraße,,,,way
 "Äußere Diemitzer Straße",,,,way
 "Äußere Hordorfer Straße",,,,way
@@ -166,7 +158,6 @@ Bachstelzenweg,,,,way
 Badstraße,,,,way
 Bahnhofstraße,,,,way
 Bahnstraße,,,,way
-Balkeweg,,,,way
 "Ballenstedter Straße",,,,way
 Barbarastraße,,,,way
 Barfüßerstraße,,,,way
@@ -198,7 +189,6 @@ Bischofswiese,,,,way
 "Bitterfelder Straße",,,,way
 "Blankenburger Weg",,,,way
 Blesshuhnweg,,,,way
-Blücherstraße,,,,way
 Blumenau,,,,way
 Blumenauweg,,,,way
 Blumenstraße,,,,way
@@ -211,7 +201,6 @@ Bootsweg,,,,way
 Bornknechtstraße,,,,way
 "Brachstedter Straße",,,,way
 "Brachwitzer Straße",,,,way
-Brahmsbogen,,,,way
 Brandbergweg,,,,way
 "Brandenburger Straße",,,,way
 Bratschenweg,,,,way
@@ -223,13 +212,11 @@ Brauhausstraße,,,,way
 "Breitenfelder Straße",,,,way
 "Bremer Straße",,,,way
 Brennnesselweg,,,,way
-Brentanostraße,,,,way
 Broihanstraße,,,,way
 Brombeerweg,,,,way
 Bruchfeldweg,,,,way
 "Bruckdorfer Straße",,,,way
 Brückenstraße,,,,way
-Brucknerstraße,,,,way
 Brüderstraße,,,,way
 Brühlstraße,,,,way
 "Brünner Straße",,,,way
@@ -238,8 +225,6 @@ Brunoswarte,,,,way
 Buchenweg,,,,way
 Buchsbaumweg,,,,way
 "Budapester Straße",,,,way
-Buddestraße,,,,way
-Bugenhagenstraße,,,,way
 "Bukarester Straße",,,,way
 Bunastraße,,,,way
 Buntkäferweg,,,,way
@@ -247,40 +232,19 @@ Buntkäferweg,,,,way
 Burgstraße,,,,way
 "Büschdorfer Straße",,,,way
 "Büschdorfer Weg",,,,way
-Calvinstraße,,,,way
-Camillo-Irmscher-Straße,,,,way
-Cansteinstraße,,,,way
-Carl-Crodel-Weg,,,,way
-Carl-Robert-Straße,,,,way
-Carl-Schorlemmer-Ring,,,,way
-Carl-Schurz-Straße,,,,way
-Carl-Wentzel-Straße,,,,way
-Carl-Zeiss-Straße,,,,way
-Carl-von-Ossietzky-Straße,,,,way
-Caspar-David-Friedrich-Straße,,,,way
 Celloweg,,,,way
-Charles-Dickens-Straße,,,,way
-Charlotte-Unzer-Straße,,,,way
-Charlottenstraße,,,,way
 Chemiestraße,,,,way
-Christian-Morgenstern-Weg,,,,way
 Christian-Wilhelm-Weg,,,,way
 "Christian-Wilhelm-Weg / Naturlehrpfad I",,,,way
-Christian-Wolff-Straße,,,,way
 Chrysanthemenweg,,,,way
-Clara-Zetkin-Straße,,,,way
 "Clausthaler Straße",,,,way
 "Cloppenburger Straße",,,,way
 "Coimbraer Straße",,,,way
-Conradstraße,,,,way
 "Cossebauder Weg",,,,way
-Cranachstraße,,,,way
-Curt-Goetz-Straße,,,,way
 Dachritzstraße,,,,way
 Dachstraße,,,,way
 Dachsweg,,,,way
 Dahlienweg,,,,way
-Damaschkestraße,,,,way
 Daniel-Defoe-Straße,,,,way
 Daniel-Pöppelmann-Straße,,,,way
 Daniel-Vorländer-Straße,,,,way
@@ -294,7 +258,6 @@ Delphinstraße,,,,way
 "Diemitzer Straße",,,,way
 Dieselstraße,,,,way
 "Dieskauer Straße",,,,way
-Diesterwegstraße,,,,way
 Distelweg,,,,way
 Dittenbergerstraße,,,,way
 "Döckritzer Straße",,,,way
@@ -347,10 +310,8 @@ Eisenbahnstraße,,,,way
 "Eislebener Chaussee",,,,way
 "Eislebener Straße",,,,way
 Elbestraße,,,,way
-Ellen-Weber-Straße,,,,way
 Ellernstraße,,,,way
 "Ellricher Weg",,,,way
-Elsa-Brändström-Straße,,,,way
 Elsterblick,,,,way
 Elsterstraße,,,,way
 Emil-Abderhalden-Straße,,,,way
@@ -358,8 +319,6 @@ Emil-Eichhorn-Straße,,,,way
 Emil-Fischer-Straße,,,,way
 Emil-Schuster-Straße,,,,way
 Enzianweg,,,,way
-Erhard-Hübener-Straße,,,,way
-Erich-Kästner-Straße,,,,way
 Erich-Neuß-Weg,,,,way
 Erich-Weinert-Straße,,,,way
 Erlenweg,,,,way
@@ -372,7 +331,6 @@ Ernst-Grube-Straße,,,,way
 Ernst-Haeckel-Weg,,,,way
 Ernst-Hermann-Meyer-Straße,,,,way
 Ernst-Kamieth-Straße,,,,way
-Ernst-Kromayer-Straße,,,,way
 Ernst-Moritz-Arndt-Straße,,,,way
 Ernst-Schneller-Straße,,,,way
 Ernst-Toller-Straße,,,,way
@@ -453,11 +411,9 @@ Friedenstraße,,,,way
 Friedhofstraße,,,,way
 "Friedländer Weg",,,,way
 Friedrich-Chrysander-Weg,,,,way
-Friedrich-Hesekiel-Straße,,,,way
 Friedrich-Kruse-Straße,,,,way
 Friedrich-Wöhler-Straße,,,,way
 Friedrichstraße,,,,way
-Friesenstraße,,,,way
 Fritz-Hoffmann-Straße,,,,way
 Fritz-Kunert-Straße,,,,way
 Fritz-Reuter-Straße,,,,way
@@ -487,7 +443,6 @@ Gemeindehäuser,,,,way
 Georg-Cantor-Straße,,,,way
 Georg-Ernst-Stahl-Straße,,,,way
 Georg-Schumann-Platz,,,,way
-Georgi-Dimitroff-Straße,,,,way
 Georgstraße,,,,way
 "Geraer Straße",,,,way
 Geranienstraße,,,,way
@@ -698,14 +653,11 @@ Holzplatz,,,,way
 Hoppbergsblick,,,,way
 "Hordorfer Straße",,,,way
 "Horst Mühlbach Weg",,,,way
-Horst-Heilmann-Straße,,,,way
-Horst-Tanu-Margraf-Weg,,,,way
 Hortensienweg,,,,way
 Howorkastraße,,,,way
 Hubertusplatz,,,,way
 Hufelandstraße,,,,way
 Huflattichweg,,,,way
-Humboldtstraße,,,,way
 Hummelweg,,,,way
 Huttenstraße,,,,way
 Hyazinthenstraße,,,,way
@@ -731,7 +683,6 @@ Irisweg,,,,way
 Jacobstraße,,,,way
 Jägergasse,,,,way
 Jägerplatz,,,,way
-Jahnstraße,,,,way
 "Jamboler Straße",,,,way
 Jasminweg,,,,way
 "Jenaer Straße",,,,way
@@ -771,7 +722,6 @@ Karl-Liebknecht-Straße,,,,way
 Karl-May-Weg,,,,way
 Karl-Meseberg-Straße,,,,way
 Karl-Peter-Straße,,,,way
-Karl-Pilger-Straße,,,,way
 Karl-Völker-Straße,,,,way
 "Karlsbader Straße",,,,way
 "Karlsruher Allee",,,,way
@@ -781,7 +731,6 @@ Karzerplan,,,,way
 "Kasseler Straße",,,,way
 Kastanienallee,,,,way
 Kastanienweg,,,,way
-Käthe-Kollwitz-Straße,,,,way
 "Kattowitzer Straße",,,,way
 Kaulenberg,,,,way
 Käuzchenweg,,,,way
@@ -894,7 +843,6 @@ Leopoldstraße,,,,way
 Lerchenfeldstraße,,,,way
 Lerchensteg,,,,way
 Lerchenweg,,,,way
-Lessingstraße,,,,way
 "Lettiner Straße",,,,way
 Leunaweg,,,,way
 Libellenweg,,,,way
@@ -1086,14 +1034,12 @@ Paul-Hindemith-Straße,,,,way
 Paul-Klee-Weg,,,,way
 Paul-Riebeck-Straße,,,,way
 Paul-Singer-Straße,,,,way
-Paul-Suhr-Straße,,,,way
 Paul-Thiersch-Straße,,,,way
 Paula-Hertwig-Straße,,,,way
 "Peißener Straße",,,,way
 Peißnitzinsel,,,,way
 Peißnitzstraße,,,,way
 "Pekinger Straße",,,,way
-Pestalozzistraße,,,,way
 Petersbergstraße,,,,way
 "Pfälzer Brücke",,,,way
 "Pfälzer Straße",,,,way
@@ -1197,7 +1143,6 @@ Robert-Blum-Straße,,,,way
 Robert-Bunsen-Weg,,,,way
 Robert-Franz-Ring,,,,way
 Robert-Herzau-Straße,,,,way
-Robert-Koch-Straße,,,,way
 Robert-Mühlpforte-Straße,,,,way
 Robinienweg,,,,way
 "Rochlitzer Straße",,,,way
@@ -1267,7 +1212,6 @@ Schieferstraße,,,,way
 "Schierker Weg",,,,way
 Schilfkäferweg,,,,way
 Schilfstraße,,,,way
-Schillerstraße,,,,way
 Schimmelstraße,,,,way
 Schinkelstraße,,,,way
 "Schkeuditzer Straße",,,,way
@@ -1478,12 +1422,10 @@ Vogelsang,,,,way
 Vogelweide,,,,way
 Vogesenstraße,,,,way
 Volhardstraße,,,,way
-Volkmannstraße,,,,way
 Von-Arnim-Straße,,,,way
 Von-Danckelmann-Platz,,,,way
 Von-Einbeck-Straße,,,,way
 Von-Seckendorff-Platz,,,,way
-Von-der-Heydt-Straße,,,,way
 "Vor dem Hamstertor",,,,way
 Voßstraße,,,,way
 Wacholderweg,,,,way
@@ -1537,7 +1479,6 @@ Wildrosenweg,,,,way
 Wilhelm-Berndt-Straße,,,,way
 Wilhelm-Biehl-Straße,,,,way
 Wilhelm-Busch-Straße,,,,way
-Wilhelm-Grothe-Straße,,,,way
 Wilhelm-Hauff-Straße,,,,way
 Wilhelm-Jost-Straße,,,,way
 Wilhelm-Külz-Straße,,,,way
