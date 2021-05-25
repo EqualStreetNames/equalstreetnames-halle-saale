@@ -19,7 +19,7 @@ Altböllberg,,,,way
 "Alte Schmiede",,,,way
 "Alte Zollbrücke",,,,way
 "Altenburger Straße",,,,way
-"Alter Markt",,,,relation
+"Alter Markt",,,,relation+way
 Alvenslebenweg,,,,way
 "Am Ausblick",,,,way
 "Am Bahndamm",,,,way
@@ -263,7 +263,7 @@ Dohlenweg,,,,way
 "Dölbauer Straße",,,,way
 "Döllnitzer Weg",,,,way
 Domänenstraße,,,,way
-Domplatz,,,,relation
+Domplatz,,,,relation+way
 Domstraße,,,,way
 Dorflage,,,,way
 Dorfplatz,,,,way
@@ -346,8 +346,6 @@ Forstmeisterweg,,,,way
 Forststraße,,,,way
 "Forstwerderbrücke (Katzenbuckel)",,,,way
 Fortunastraße,,,,way
-Franz-Mehring-Straße,,,,way
-Franz-Schubert-Straße,,,,way
 "Franzensbader Weg",,,,way
 Franzosensteinweg,,,,way
 Franzosenweg,,,,way
@@ -356,20 +354,11 @@ Fraunhoferstraße,,,,way
 Freiheit,,,,way
 Freiimfelde,,,,way
 "Freiimfelder Straße",,,,way
-Freiligrathstraße,,,,way
 "Freyburger Straße",,,,way
-Friedemann-Bach-Platz,,,,way
 Friedensplatz,,,,way
 Friedenstraße,,,,way
 Friedhofstraße,,,,way
 "Friedländer Weg",,,,way
-Friedrich-Chrysander-Weg,,,,way
-Friedrich-Kruse-Straße,,,,way
-Friedrich-Wöhler-Straße,,,,way
-Friedrichstraße,,,,way
-Fritz-Hoffmann-Straße,,,,way
-Fritz-Kunert-Straße,,,,way
-Fritz-Reuter-Straße,,,,way
 Frobergerstraße,,,,way
 "Frohe Zukunft",,,,way
 Froschweg,,,,way
@@ -386,29 +375,19 @@ Garnisonsstraße,,,,way
 Gartenstadtstraße,,,,way
 Gartenstraße,,,,way
 Gärtnerstraße,,,,way
-Gaußstraße,,,,way
 Gebhard-von-Alvensleben-Weg,,,,way
 Geiststraße,,,,way
 Gellertstraße,,,,way
 Gemeindehäuser,,,,way
 "Genfer Straße",,,,way
 "Genthiner Straße",,,,way
-Georg-Cantor-Straße,,,,way
-Georg-Ernst-Stahl-Straße,,,,way
-Georg-Schumann-Platz,,,,way
 Georgstraße,,,,way
 "Geraer Straße",,,,way
 Geranienstraße,,,,way
 Gerberastraße,,,,way
 Gerberstraße,,,,way
-Gerhard-Geyer-Weg,,,,way
-Gerhard-Lichtenfeld-Weg,,,,way
-Gerhard-Marcks-Straße,,,,way
-Gerhart-Hauptmann-Straße,,,,way
 "Gernroder Straße",,,,way
 Gerstenweg,,,,way
-Geschwister-Scholl-Straße,,,,way
-Geseniusstraße,,,,way
 Gießerstraße,,,,way
 "Gimritzer Damm",,,,way
 "Gimritzer Gutsbrücke",,,,way
@@ -417,11 +396,8 @@ Gitarrenweg,,,,way
 Gladiolenweg,,,,way
 "Glauchaer Platz",,,,way
 "Glauchaer Straße",,,,way
-Gleimstraße,,,,way
 Glockenblumenweg,,,,way
 Glockenweg,,,,way
-Gneisenaustraße,,,,way
-Goethestraße,,,,way
 Goldammerweg,,,,way
 Goldbergstraße,,,,way
 Goldlackweg,,,,way
@@ -434,12 +410,9 @@ Göritzstraße,,,,way
 Götschestraße,,,,way
 Götscheweg,,,,way
 Gottesackerstraße,,,,way
-Gottfried-Keller-Straße,,,,way
-Gottfried-Lindner-Straße,,,,way
 Gottfried-Semper-Straße,,,,way
 Gotthardtstraße,,,,way
 "Göttinger Bogen",,,,way
-Götzstraße,,,,way
 Grabenstraße,,,,way
 Gräfestraße,,,,way
 Granatweg,,,,way
@@ -850,7 +823,7 @@ Margueritenweg,,,,way
 Marienkäferweg,,,,way
 Marienstraße,,,,way
 Mark-Twain-Straße,,,,way
-Marktplatz,,,,relation
+Marktplatz,,,,relation+way
 Marsstraße,,,,way
 Martha-Brautzsch-Straße,,,,way
 Marthastraße,,,,way
@@ -928,7 +901,7 @@ Netzweg,,,,way
 Neumarktstraße,,,,way
 Neunhäuser,,,,way
 Neuragoczystraße,,,,way
-"Neustädter Passage",,,,relation
+"Neustädter Passage",,,,relation+way
 Neuwerk,,,,way
 Nickel-Hoffmann-Straße,,,,way
 "Niemberger Weg",,,,way
