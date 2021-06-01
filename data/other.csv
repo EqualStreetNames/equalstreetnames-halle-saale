@@ -1,7 +1,4 @@
 name,source,gender,wikidata,type
-Gertrud-Bergmann-Weg,wikidata,,Q106522109,way
-Louis-Jentzsch-Straße,wikidata,,Q106522248,way
-Philipp-von-Ladenberg-Straße,wikidata,,Q106522296,way
 Aalweg,,,,way
 "Abzweig Zöberitz",,,,way
 Achatweg,,,,way
@@ -388,6 +385,7 @@ Gerberastraße,,,,way
 Gerberstraße,,,,way
 "Gernroder Straße",,,,way
 Gerstenweg,,,,way
+Gertrud-Bergmann-Weg,,,,way
 Gießerstraße,,,,way
 "Gimritzer Damm",,,,way
 "Gimritzer Gutsbrücke",,,,way
@@ -410,11 +408,9 @@ Göritzstraße,,,,way
 Götschestraße,,,,way
 Götscheweg,,,,way
 Gottesackerstraße,,,,way
-Gottfried-Semper-Straße,,,,way
 Gotthardtstraße,,,,way
 "Göttinger Bogen",,,,way
 Grabenstraße,,,,way
-Gräfestraße,,,,way
 Granatweg,,,,way
 Granau,,,,way
 "Granauer Straße",,,,way
@@ -425,12 +421,10 @@ Grashüpferweg,,,,way
 Grasnelkenweg,,,,way
 "Grazer Straße",,,,way
 "Greifswalder Weg",,,,way
-Grellstraße,,,,way
 "Grenobler Straße",,,,way
 Grenzstraße,,,,way
 "Greppiner Straße",,,,way
 Grillenweg,,,,way
-Grimmstraße,,,,way
 "Groninger Weg",,,,way
 Großbeerenstraße,,,,way
 "Große Brauhausstraße",,,,way
@@ -450,14 +444,7 @@ Grubenstraße,,,,way
 "Grüner Platz",,,,way
 "Grüner Weg",,,,way
 "Grüner Winkel",,,,way
-Gudrun-Goeseke-Straße,,,,way
 Guldenstraße,,,,way
-Gustav-Anlauf-Straße,,,,way
-Gustav-Bachmann-Straße,,,,way
-Gustav-Hertzberg-Straße,,,,way
-Gustav-Menzel-Platz,,,,way
-Gustav-Schmidt-Platz,,,,way
-Gustav-Weidanz-Weg,,,,way
 "Gut Gimritz",,,,way
 Gütchenstraße,,,,way
 Gutenbergstraße,,,,way
@@ -490,18 +477,11 @@ Halsbandweg,,,,way
 "Hamelner Straße",,,,way
 Hamsterweg,,,,way
 Händelgalerie,,,,way
-Händelstraße,,,,way
 Hanfgartenstraße,,,,way
 Hanfweg,,,,way
 "Hanoier Straße",,,,way
-Hans-Dietrich-Genscher-Platz,,,,way
-Hans-Dietrich-Genscher-Straße,,,,way
-Hans-Dittmar-Straße,,,,way
-Hans-Sachs-Straße,,,,way
-Hans-Thoma-Straße,,,,way
 Hansastraße,,,,way
 Hansering,,,,way
-Hardenbergstraße,,,,way
 Harfenweg,,,,way
 Harz,,,,way
 Harzclubstieg,,,,way
@@ -515,7 +495,6 @@ Hasenwinkel,,,,way
 Hauerweg,,,,way
 Hauptstraße,,,,way
 Heckenrosenweg,,,,way
-Hegelstraße,,,,way
 Heideallee,,,,way
 Heidehäuser,,,,way
 Heidehof,,,,way
@@ -526,24 +505,7 @@ Heideringpassage,,,,way
 Heidestraße,,,,way
 Heideweg,,,,way
 Heimstättenweg,,,,way
-Heinrich-Damerow-Straße,,,,way
-Heinrich-Franck-Straße,,,,way
-Heinrich-Heine-Straße,,,,way
-Heinrich-Lammasch-Platz,,,,way
-Heinrich-Pera-Straße,,,,way
-Heinrich-Schütz-Straße,,,,way
-Heinrich-Zille-Straße,,,,way
-Heinrich-und-Thomas-Mann-Straße,,,,way
-Helene-Stöcker-Platz,,,,way
 Helmeweg,,,,way
-Helmholtzstraße,,,,way
-Helmut-Just-Straße,,,,way
-Helmut-von-Gerlach-Straße,,,,way
-Hemingwaystraße,,,,way
-Herbert-Post-Straße,,,,way
-Herderstraße,,,,way
-Hermann-Burmeister-Straße,,,,way
-Hermann-Knoblauch-Straße,,,,way
 Hermann-Richter-Weg,,,,way
 Hermannstraße,,,,way
 Hermesstraße,,,,way
@@ -788,6 +750,7 @@ Loberweg,,,,way
 "Lochauer Weg",,,,way
 Lortzingbogen,,,,way
 Louis-Braille-Straße,,,,way
+Louis-Jentzsch-Straße,,,,way
 Louise-Otto-Peters-Straße,,,,way
 "Lübecker Platz",,,,way
 Luckengasse,,,,way
@@ -977,6 +940,7 @@ Pfeilkrautweg,,,,way
 Pfirsichweg,,,,way
 Pflaumenweg,,,,way
 Philipp-Reis-Straße,,,,way
+Philipp-von-Ladenberg-Straße,,,,way
 Pianoweg,,,,way
 Pirolweg,,,,way
 Plan,,,,way
