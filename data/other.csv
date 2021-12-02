@@ -1,5 +1,13 @@
 name,source,gender,wikidata,type
+Dachsweg,wikidata,,Q27066,way
+Elsterblick,wikidata,,Q44729,way
+Elsterstraße,wikidata,,Q44729,way
 Gertrud-Bergmann-Weg,wikidata,,,way
+Hamsterweg,wikidata,,Q208077,way
+Igelweg,wikidata,,Q28257,way
+"Merseburger Straße",wikidata,,Q14945,way
+"Radeweller Straße",wikidata,,Q2125591,way
+"Regensburger Straße",wikidata,,Q2978,way
 Zenkerstraße,wikidata,,Q37575710,way
 Aalweg,,,,way
 Achatweg,,,,way
@@ -242,7 +250,6 @@ Chrysanthemenweg,,,,way
 "Cossebauder Weg",,,,way
 Dachritzstraße,,,,way
 Dachstraße,,,,way
-Dachsweg,,,,way
 Dahlienweg,,,,way
 "Dautzscher Straße",,,,way
 "Delitzscher Straße",,,,way
@@ -297,8 +304,6 @@ Eisenbahnstraße,,,,way
 Elbestraße,,,,way
 Ellernstraße,,,,way
 "Ellricher Weg",,,,way
-Elsterblick,,,,way
-Elsterstraße,,,,way
 Enzianweg,,,,way
 Erlenweg,,,,way
 "Ermlitzer Straße",,,,way
@@ -476,7 +481,6 @@ Hallweg,,,,way
 Halsbandweg,,,,way
 "Hamburger Straße",,,,way
 "Hamelner Straße",,,,way
-Hamsterweg,,,,way
 Händelgalerie,,,,way
 Hanfgartenstraße,,,,way
 Hanfweg,,,,way
@@ -548,7 +552,6 @@ Hyazinthenstraße,,,,way
 "II. Vereinsstraße",,,,way
 "III. Vereinsstraße",,,,way
 "IV. Vereinsstraße",,,,way
-Igelweg,,,,way
 Ilmweg,,,,way
 "Ilsenburger Weg",,,,way
 Iltisweg,,,,way
@@ -585,10 +588,7 @@ Kaolinstraße,,,,way
 Kapellengasse,,,,way
 Kapellenplatz,,,,way
 Karl-Ernst-Weg,,,,way
-Karl-May-Weg,,,,way
-Karl-Meseberg-Straße,,,,way
 Karl-Peter-Straße,,,,way
-Karl-Völker-Straße,,,,way
 "Karlsbader Straße",,,,way
 "Karlsruher Allee",,,,way
 "Kärntner Straße",,,,way
@@ -600,13 +600,10 @@ Kastanienweg,,,,way
 "Kattowitzer Straße",,,,way
 Kaulenberg,,,,way
 Käuzchenweg,,,,way
-Kefersteinstraße,,,,way
 Kellnerstraße,,,,way
-Keplerstraße,,,,way
 Kesselbergweg,,,,way
 Kiefernweg,,,,way
 "Kiewer Straße",,,,way
-Kindlebengasse,,,,way
 Kirchberg,,,,way
 Kirchblick,,,,way
 Kirchnerstraße,,,,way
@@ -643,7 +640,6 @@ Klosterstraße,,,,way
 Knappenstraße,,,,way
 Knospenweg,,,,way
 "Kockwitzer Straße",,,,way
-Kohlschütterstraße,,,,way
 Kolkturmring,,,,way
 Kolkturmweg,,,,way
 "Kollenbeyer Weg",,,,way
@@ -653,7 +649,6 @@ Kolonistenstraße,,,,way
 "Königgrätzer Straße",,,,way
 "Königsberger Weg",,,,way
 "Königshütter Straße",,,,way
-Kopernikusstraße,,,,way
 Koppelweg,,,,way
 "Korbethaer Weg",,,,way
 Kornblumenweg,,,,way
@@ -698,7 +693,6 @@ Landrain,,,,way
 Läuferweg,,,,way
 Laufkäferweg,,,,way
 Laukenweg,,,,way
-Laurentiusstraße,,,,way
 Leibnizstraße,,,,way
 "Leipziger Chaussee",,,,way
 "Leipziger Straße",,,,way
@@ -785,7 +779,6 @@ Melanchthonstraße,,,,way
 Mendelejewstraße,,,,way
 Mendelssohn-Bartholdy-Straße,,,,way
 Merkurstraße,,,,way
-"Merseburger Straße",,,,way
 Messestraße,,,,way
 Milanweg,,,,way
 Milchstraße,,,,way
@@ -947,7 +940,6 @@ Quellgasse,,,,way
 Querstraße,,,,way
 "Rabatzer Straße",,,,way
 Rabeninselbrücke,,,,way
-"Radeweller Straße",,,,way
 "Radeweller Weg",,,,way
 Radieschenweg,,,,way
 Raffineriestraße,,,,way
@@ -964,7 +956,6 @@ Ratswerder,,,,way
 Rauchfußstraße,,,,way
 Rebenweg,,,,way
 Rebhuhnweg,,,,way
-"Regensburger Straße",,,,way
 Reichardtstraße,,,,way
 "Reichenberger Straße",,,,way
 Reichsbahnsiedlung,,,,way
@@ -972,7 +963,6 @@ Reidebachbrücke,,,,way
 "Reideburger Landstraße",,,,way
 "Reideburger Straße",,,,way
 Reidenfeld,,,,way
-Reileck,,,,way
 Reilshof,,,,way
 Reilstraße,,,,way
 Rembrandtstraße,,,,way
