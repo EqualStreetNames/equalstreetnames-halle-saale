@@ -1,14 +1,33 @@
 name,source,gender,wikidata,type
+"Bennstedter Straße",wikidata,,Q701140,way
+"Braunschweiger Bogen",wikidata,,Q2773,way
 Dachsweg,wikidata,,Q27066,way
+"Eislebener Straße",wikidata,,Q484870,way
 Elsterblick,wikidata,,Q44729,way
 Elsterstraße,wikidata,,Q44729,way
 Gertrud-Bergmann-Weg,wikidata,,,way
+"Göttinger Bogen",wikidata,,Q3033,way
+Granau,wikidata,,Q1743226,way
+"Hamelner Straße",wikidata,,Q4062,way
 Hamsterweg,wikidata,,Q208077,way
+"Höhnstedter Straße",wikidata,,Q689571,way
 Igelweg,wikidata,,Q28257,way
+"Köllmer Straße",wikidata,,Q1795720,way
+"Lüneburger Bogen",wikidata,,Q3920,way
 "Merseburger Straße",wikidata,,Q14945,way
+"Oldenburger Straße",wikidata,,Q2936,way
+"Osendorfer Straße",wikidata,,Q2125591,way
+"Osnabrücker Straße",wikidata,,Q2916,way
+"Platz der Einheit",wikidata,,Q56039,way
 "Radeweller Straße",wikidata,,Q2125591,way
 "Regensburger Straße",wikidata,,Q2978,way
+Schulhof,wikidata,,Q3914,way
+"Soltauer Straße",wikidata,,Q504754,way
+"Teutschenthaler Landstraße",wikidata,,Q538873,way
+Vogesenstraße,wikidata,,Q187843,way
+"Wolfsburger Straße",wikidata,,Q3014,way
 Zenkerstraße,wikidata,,Q37575710,way
+"Zur Neuen Schule",wikidata,,Q3914,way
 Aalweg,,,,way
 Achatweg,,,,way
 Ackerweg,,,,way
@@ -175,7 +194,6 @@ Begonienstraße,,,,way
 Behelfsbrücke,,,,way
 Beifußweg,,,,way
 "Benkendorfer Straße",,,,way
-"Bennstedter Straße",,,,way
 Berghalde,,,,way
 Bergmannssteig,,,,way
 Bergschenkenweg,,,,way
@@ -212,7 +230,6 @@ Brandbergweg,,,,way
 Bratschenweg,,,,way
 Brauhausstraße,,,,way
 "Braunlager Straße",,,,way
-"Braunschweiger Bogen",,,,way
 "Brehnaer Straße",,,,way
 "Breite Straße",,,,way
 "Breitenfelder Straße",,,,way
@@ -252,7 +269,6 @@ Dachritzstraße,,,,way
 Dachstraße,,,,way
 Dahlienweg,,,,way
 "Dautzscher Straße",,,,way
-"Delitzscher Straße",,,,way
 Delphinstraße,,,,way
 "Dessauer Platz",,,,way
 "Dessauer Straße",,,,way
@@ -300,7 +316,6 @@ Eierweg,,,,way
 Eisenbahnstraße,,,,way
 "Eisenberger Straße",,,,way
 "Eislebener Chaussee",,,,way
-"Eislebener Straße",,,,way
 Elbestraße,,,,way
 Ellernstraße,,,,way
 "Ellricher Weg",,,,way
@@ -411,13 +426,10 @@ Goldsteinstraße,,,,way
 Göritzstraße,,,,way
 "Gothaer Straße",,,,way
 Götschestraße,,,,way
-Götscheweg,,,,way
 Gottesackerstraße,,,,way
 Gotthardtstraße,,,,way
-"Göttinger Bogen",,,,way
 Grabenstraße,,,,way
 Granatweg,,,,way
-Granau,,,,way
 "Granauer Straße",,,,way
 "Granauer Weg",,,,way
 Graseweg,,,,way
@@ -474,13 +486,12 @@ Hallbergsbreite,,,,way
 "Halle, Rosenfelder Straße",,,,way
 Halle-Saale-Schleife,,,,way
 "Hallesche Straße",,,,way
-Hallmarkt,,,,relation
+Hallmarkt,,,,way
 Hallorenring,,,,way
 Hallorenstraße,,,,way
 Hallweg,,,,way
 Halsbandweg,,,,way
 "Hamburger Straße",,,,way
-"Hamelner Straße",,,,way
 Händelgalerie,,,,way
 Hanfgartenstraße,,,,way
 Hanfweg,,,,way
@@ -533,7 +544,6 @@ Hochweg,,,,way
 "Hohe Straße",,,,way
 "Hohenweidener Weg",,,,way
 "Hoher Weg",,,,way
-"Höhnstedter Straße",,,,way
 "Holleber Weg",,,,way
 Höllweg,,,,way
 Holunderweg,,,,way
@@ -640,7 +650,6 @@ Knospenweg,,,,way
 Kolkturmring,,,,way
 Kolkturmweg,,,,way
 "Kollenbeyer Weg",,,,way
-"Köllmer Straße",,,,way
 "Köllmer Weg",,,,way
 Kolonistenstraße,,,,way
 "Königgrätzer Straße",,,,way
@@ -689,7 +698,6 @@ Laukenweg,,,,way
 "Leipziger Chaussee",,,,way
 "Leipziger Straße",,,,way
 Leitergasse,,,,way
-Leopoldstraße,,,,way
 Lerchenfeldstraße,,,,way
 Lerchensteg,,,,way
 Lerchenweg,,,,way
@@ -698,31 +706,21 @@ Leunaweg,,,,way
 Libellenweg,,,,way
 Lichtemannsbreite,,,,way
 "Liebenauer Straße",,,,way
-Liebigstraße,,,,way
 "Lieskauer Straße",,,,way
 "Lieskauer Weg",,,,way
 Ligusterweg,,,,way
-Lili-Schultz-Weg,,,,way
 Lilienstraße,,,,way
 Lindenstraße,,,,way
 Lindenweg,,,,way
 "Linzer Straße",,,,way
 Loberweg,,,,way
 "Lochauer Weg",,,,way
-Lortzingbogen,,,,way
-Louis-Braille-Straße,,,,way
 Louis-Jentzsch-Straße,,,,way
 "Lübecker Platz",,,,way
 Luckengasse,,,,way
-Ludwig-Herzfeld-Straße,,,,way
-Ludwig-Stur-Straße,,,,way
-Ludwigstraße,,,,way
 Luisenstraße,,,,way
-"Lüneburger Bogen",,,,way
 Lunzbergring,,,,way
 Lupinenweg,,,,way
-Lutherplatz,,,,way
-Lutherstraße,,,,way
 "Lützener Straße",,,,way
 Luzerneweg,,,,way
 "Magdeburger Chaussee",,,,way
@@ -743,32 +741,15 @@ Margueritenweg,,,,way
 "Marienbader Weg",,,,way
 Marienkäferweg,,,,way
 Marienstraße,,,,way
-Mark-Twain-Straße,,,,way
 Marktplatz,,,,relation+way
 Marsstraße,,,,way
 Marthastraße,,,,way
-Martinstraße,,,,way
 "Maschwitzer Straße",,,,way
-Matthias-Claudius-Straße,,,,way
-Matthias-Grünewald-Straße,,,,way
 Matzwinkel,,,,way
 Mauerstraße,,,,way
-Max-Heder-Straße,,,,way
-Max-Klinger-Weg,,,,way
-Max-Lademann-Straße,,,,way
-Max-Liebermann-Straße,,,,way
-Max-Maercker-Straße,,,,way
-Max-Nenke-Straße,,,,way
-Max-Planck-Straße,,,,way
-Max-Reger-Straße,,,,way
-Max-Sauerlandt-Ring,,,,way
-Maybachstraße,,,,way
 "Meisdorfer Straße",,,,way
 Meisenweg,,,,way
 Melanchthonplatz,,,,way
-Melanchthonstraße,,,,way
-Mendelejewstraße,,,,way
-Mendelssohn-Bartholdy-Straße,,,,way
 Merkurstraße,,,,way
 Messestraße,,,,way
 Milanweg,,,,way
@@ -781,12 +762,10 @@ Möckernstraße,,,,way
 Mohnweg,,,,way
 Moosbeerweg,,,,way
 Moosweg,,,,way
-Mörikestraße,,,,way
 Moritzburgring,,,,way
 Moritzkirchhof,,,,way
 Moritzzwinger,,,,way
 Morlstraße,,,,way
-Moses-Biletzky-Straße,,,,way
 "Moskauer Straße",,,,way
 "Mötzlicher Straße",,,,way
 Möwenstraße,,,,way
@@ -822,16 +801,12 @@ Neuragoczystraße,,,,way
 Neuwerk,,,,way
 "Niemberger Weg",,,,way
 "Nietlebener Straße",,,,way
-Nikolaus-Weins-Straße,,,,way
 Nordstraße,,,,way
 Nussweg,,,,way
 Ochsenbrücke,,,,way
 "Oebisfelder Weg",,,,way
 "Oelsnitzer Straße",,,,way
-Offenbachstraße,,,,way
-"Oldenburger Straße",,,,way
 Oleanderweg,,,,way
-Oleariusstraße,,,,way
 Olivinweg,,,,way
 "Olmützer Straße",,,,way
 Onyxweg,,,,way
@@ -841,41 +816,20 @@ Orchideenweg,,,,way
 Orgelweg,,,,way
 Orionstraße,,,,way
 "Osendorfer Damm",,,,way
-"Osendorfer Straße",,,,way
-"Osnabrücker Straße",,,,way
 Osramstraße,,,,way
 Osterglockenweg,,,,way
 "Osteroder Weg",,,,way
 "Ostrauer Straße",,,,way
-Otto-Bruder-Straße,,,,way
-Otto-Dix-Straße,,,,way
-Otto-Eißfeldt-Straße,,,,way
-Otto-Hahn-Straße,,,,way
-Otto-Kanning-Straße,,,,way
-Otto-Kilian-Straße,,,,way
-Otto-Nagel-Straße,,,,way
-Otto-Schlag-Straße,,,,way
-Otto-Schlüter-Straße,,,,way
-Otto-Schmeil-Straße,,,,way
-Otto-Stomps-Straße,,,,way
-Otto-von-Guericke-Straße,,,,way
 Ottostraße,,,,way
 "Ouluer Straße",,,,way
 Packhofgasse,,,,way
 Palmenstraße,,,,way
 Pappelallee,,,,way
 Pappelweg,,,,way
-Paracelsusstraße,,,,way
 Parkstraße,,,,way
 Parkweg,,,,way
 "Passendorfer Straße",,,,way
 "Passendorfer Weg",,,,way
-Paul-Frankl-Weg,,,,way
-Paul-Hindemith-Straße,,,,way
-Paul-Klee-Weg,,,,way
-Paul-Riebeck-Straße,,,,way
-Paul-Singer-Straße,,,,way
-Paul-Thiersch-Straße,,,,way
 "Peißener Straße",,,,way
 Peißnitzinsel,,,,way
 Peißnitzstraße,,,,way
@@ -890,8 +844,6 @@ Pfarrstraße,,,,way
 Pfeilkrautweg,,,,way
 Pfirsichweg,,,,way
 Pflaumenweg,,,,way
-Philipp-Reis-Straße,,,,way
-Philipp-von-Ladenberg-Straße,,,,way
 Pianoweg,,,,way
 Pirolweg,,,,way
 Plan,,,,way
@@ -899,7 +851,6 @@ Plan,,,,way
 "Planenaer Weg",,,,way
 Platanenstraße,,,,way
 "Platz Drei Lilien",,,,way
-"Platz der Einheit",,,,way
 "Platz der Völkerfreundschaft",,,,way
 Pleißestraße,,,,way
 "Plößnitzer Straße",,,,way
@@ -912,12 +863,10 @@ Posthornstraße,,,,way
 Posthornweg,,,,way
 Poststraße,,,,way
 Prachtkäferweg,,,,way
-Praetoriusstraße,,,,way
 "Prager Straße",,,,way
 Preßlersberg,,,,way
 Priemitzstraße,,,,way
 Primelweg,,,,way
-Prof.-Friedrich-Hoffmann-Straße,,,,way
 Pulverweiden,,,,way
 Pyrastraße,,,,way
 Quarzweg,,,,way
@@ -944,41 +893,28 @@ Ratswerder,,,,way
 Rauchfußstraße,,,,way
 Rebenweg,,,,way
 Rebhuhnweg,,,,way
-Reichardtstraße,,,,way
 "Reichenberger Straße",,,,way
 Reichsbahnsiedlung,,,,way
 Reidebachbrücke,,,,way
 "Reideburger Landstraße",,,,way
 "Reideburger Straße",,,,way
 Reidenfeld,,,,way
-Reilshof,,,,way
-Reilstraße,,,,way
-Rembrandtstraße,,,,way
 "Rennbahn-Passendorfer Wiesen",,,,way
 Rennbahnkreuz,,,,way
 Rennbahnring,,,,way
 Resedenweg,,,,way
 Rettichweg,,,,way
 Reusenweg,,,,way
-Richard-Horn-Straße,,,,way
-Richard-Paulick-Straße,,,,way
 Richard-Richter-Platz,,,,way
 Richard-Schatz-Straße,,,,way
-Richard-Wagner-Straße,,,,way
-Riebeckplatz,,,,relation+way
 Riedweg,,,,way
 Riemenschneiderweg,,,,way
 "Riesaer Straße",,,,way
 "Rigaer Straße",,,,way
 Ringelnatterweg,,,,way
-Ringelnatzweg,,,,way
 Ringerweg,,,,way
 Ringstraße,,,,way
-Riveufer,,,,way
-Robert-Bunsen-Weg,,,,way
-Robert-Franz-Ring,,,,way
 Robert-Herzau-Straße,,,,way
-Robert-Mühlpforte-Straße,,,,way
 Robinienweg,,,,way
 "Rochlitzer Straße",,,,way
 "Rockendorfer Weg",,,,way
@@ -988,8 +924,6 @@ Robinienweg,,,,way
 Röderberg,,,,way
 Roggenweg,,,,way
 Roitschweg,,,,way
-Röntgenstraße,,,,way
-Rooseveltstraße,,,,way
 "Röpziger Straße",,,,way
 Rosa-Luxemburg-Platz,,,,way
 "Rosenfelder Straße",,,,way
@@ -1006,9 +940,6 @@ Rotdornweg,,,,way
 Rotkehlchenweg,,,,way
 Rubinweg,,,,way
 Rudererweg,,,,way
-Rudolf-Claus-Straße,,,,way
-Rudolf-Ernst-Weise-Straße,,,,way
-Rudolf-Haym-Straße,,,,way
 Rüsternweg,,,,way
 Saalberg,,,,way
 Saalekai,,,,way
@@ -1027,7 +958,6 @@ Salzgrafenplatz,,,,way
 Salzgrafenstraße,,,,way
 "Salzmünder Straße",,,,way
 Salzstraße,,,,way
-Samuel-Scheidt-Weg,,,,way
 Sandberg,,,,way
 Sandbergweg,,,,way
 Sandbirkenweg,,,,way
@@ -1037,7 +967,6 @@ Schachtstraße,,,,way
 Schafbrücke,,,,way
 Schafgarbenweg,,,,way
 Schafschwingelweg,,,,way
-Scharnhorststraße,,,,way
 Scharrenstraße,,,,way
 Schieferstraße,,,,way
 "Schieloer Straße",,,,way
@@ -1047,7 +976,6 @@ Schieferstraße,,,,way
 Schilfkäferweg,,,,way
 Schilfstraße,,,,way
 Schimmelstraße,,,,way
-Schinkelstraße,,,,way
 "Schkeuditzer Straße",,,,way
 "Schkopauer Weg",,,,way
 Schlehenweg,,,,way
@@ -1069,16 +997,13 @@ Schnepfenweg,,,,way
 Schnitzelmietenweg,,,,way
 "Schönebecker Straße",,,,way
 "Schönnewitzer Straße",,,,way
-Schopenhauerstraße,,,,way
 Schreberstraße,,,,way
 Schulberg,,,,way
 Schülershof,,,,way
 Schulgartenweg,,,,way
-Schulhof,,,,way
 Schulplatz,,,,way
 Schulring,,,,way
 Schulstraße,,,,way
-Schultze-Galléra-Weg,,,,way
 Schützenstraße,,,,way
 Schwalbenweg,,,,way
 Schwanenbrücke,,,,way
@@ -1088,7 +1013,6 @@ Schwarzerlenweg,,,,way
 Schwedenweg,,,,way
 Schwelereistraße,,,,way
 "Schwerzer Straße",,,,way
-Schwetschkestraße,,,,way
 Schwimmerweg,,,,way
 Schwuchtstraße,,,,way
 "Seebener Blick",,,,way
@@ -1096,9 +1020,7 @@ Schwuchtstraße,,,,way
 Seerosenweg,,,,way
 Seggenweg,,,,way
 Selkestraße,,,,way
-Semmelweisstraße,,,,way
 Senefelderstraße,,,,way
-Senffstraße,,,,way
 "Sennewitzer Landstraße",,,,way
 Sesamweg,,,,way
 Siedlerstraße,,,,way
@@ -1110,7 +1032,6 @@ Silbertalerstraße,,,,way
 Siriusstraße,,,,way
 Smaragdweg,,,,way
 Solarsiedlung,,,,way
-"Soltauer Straße",,,,way
 Sommerweg,,,,way
 "Sonneberger Straße",,,,way
 Sonnenblumenweg,,,,way
@@ -1130,7 +1051,6 @@ Stadelberg,,,,way
 Stadtforststraße,,,,way
 Stadtgutweg,,,,way
 "Staßfurter Straße",,,,way
-Steffensstraße,,,,way
 Steg,,,,way
 Steigerstraße,,,,way
 "Steiler Berg",,,,way
@@ -1173,7 +1093,6 @@ Taucherweg,,,,way
 Taxusweg,,,,way
 Teichstraße,,,,way
 Teichweg,,,,way
-"Teutschenthaler Landstraße",,,,way
 "Teutschenthaler Straße",,,,way
 "Thaler Weg",,,,way
 Thaliapassage,,,,way
@@ -1230,7 +1149,6 @@ Violinenweg,,,,way
 Vogelherd,,,,way
 Vogelsang,,,,way
 Vogelweide,,,,way
-Vogesenstraße,,,,way
 "Vor dem Hamstertor",,,,way
 Wacholderweg,,,,way
 Wachtelweg,,,,way
@@ -1283,7 +1201,6 @@ Wipperweg,,,,way
 "Wismarer Weg",,,,way
 "Wittenberger Straße",,,,way
 "Wolfener Straße",,,,way
-"Wolfsburger Straße",,,,way
 Wolfsschluchtweg,,,,way
 "Wörlitzer Straße",,,,way
 "Wörmlitzer Platz",,,,way
@@ -1320,7 +1237,6 @@ Zollrainuse_sidepath,,,,way
 "Zur Elsteraue",,,,way
 "Zur Gartenstadt",,,,way
 "Zur Morgenröte",,,,way
-"Zur Neuen Schule",,,,way
 "Zur Rabeninsel",,,,way
 "Zur Saaleaue",,,,way
 "Zur Sternwarte",,,,way
