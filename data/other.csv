@@ -1,7 +1,10 @@
 name,source,gender,wikidata,type
+Agavenweg,wikidata,,Q155874,way
 "Bennstedter Straße",wikidata,,Q701140,way
 "Braunschweiger Bogen",wikidata,,Q2773,way
+"Coimbraer Straße",wikidata,,Q45412,way
 Dachsweg,wikidata,,Q27066,way
+"Dölauer Straße",wikidata,,Q1271042,way
 "Eislebener Straße",wikidata,,Q484870,way
 Elsterblick,wikidata,,Q44729,way
 Elsterstraße,wikidata,,Q44729,way
@@ -10,10 +13,16 @@ Gertrud-Bergmann-Weg,wikidata,,,way
 Granau,wikidata,,Q1743226,way
 "Hamelner Straße",wikidata,,Q4062,way
 Hamsterweg,wikidata,,Q208077,way
+"Hanoier Straße",wikidata,,Q1858,way
 "Höhnstedter Straße",wikidata,,Q689571,way
 Igelweg,wikidata,,Q28257,way
+"Karlsruher Allee",wikidata,,Q1040,way
 "Köllmer Straße",wikidata,,Q1795720,way
+"Kröllwitzer Brücke",wikidata,,Q1790626,way
+"Kröllwitzer Straße",wikidata,,Q1790626,way
+"Lieskauer Straße",wikidata,,Q702572,way
 "Lüneburger Bogen",wikidata,,Q3920,way
+Magnolienweg,wikidata,,Q157017,way
 "Merseburger Straße",wikidata,,Q14945,way
 "Oldenburger Straße",wikidata,,Q2936,way
 "Osendorfer Straße",wikidata,,Q2125591,way
@@ -21,11 +30,13 @@ Igelweg,wikidata,,Q28257,way
 "Platz der Einheit",wikidata,,Q56039,way
 "Radeweller Straße",wikidata,,Q2125591,way
 "Regensburger Straße",wikidata,,Q2978,way
+"Salzmünder Straße",wikidata,,Q699133,way
 Schulhof,wikidata,,Q3914,way
 "Soltauer Straße",wikidata,,Q504754,way
 "Teutschenthaler Landstraße",wikidata,,Q538873,way
 Vogesenstraße,wikidata,,Q187843,way
 "Wolfsburger Straße",wikidata,,Q3014,way
+"Zeitzer Straße",wikidata,,Q16087,way
 Zenkerstraße,wikidata,,Q37575710,way
 "Zur Neuen Schule",wikidata,,Q3914,way
 Aalweg,,,,way
@@ -33,7 +44,6 @@ Achatweg,,,,way
 Ackerweg,,,,way
 Adolfstraße,,,,way
 Advokatenweg,,,,way
-Agavenweg,,,,way
 Ahornweg,,,,way
 Akazienweg,,,,way
 Akeleistraße,,,,way
@@ -44,7 +54,7 @@ Altböllberg,,,,way
 "Alte Schmiede",,,,way
 "Alte Zollbrücke",,,,way
 "Altenburger Straße",,,,way
-"Alter Markt",,,,relation+way
+"Alter Markt",,,,way
 Alvenslebenweg,,,,way
 "Am Ausblick",,,,way
 "Am Bahndamm",,,,way
@@ -259,11 +269,9 @@ Burgstraße,,,,way
 Celloweg,,,,way
 Chemiestraße,,,,way
 Christian-Wilhelm-Weg,,,,way
-"Christian-Wilhelm-Weg / Naturlehrpfad I",,,,way
 Chrysanthemenweg,,,,way
 "Clausthaler Straße",,,,way
 "Cloppenburger Straße",,,,way
-"Coimbraer Straße",,,,way
 "Cossebauder Weg",,,,way
 Dachritzstraße,,,,way
 Dachstraße,,,,way
@@ -280,7 +288,6 @@ Distelweg,,,,way
 Dittenbergerstraße,,,,way
 "Döckritzer Straße",,,,way
 Dohlenweg,,,,way
-"Dölauer Straße",,,,way
 "Dölbauer Landstraße",,,,way
 "Dölbauer Straße",,,,way
 "Döllnitzer Weg",,,,way
@@ -493,7 +500,6 @@ Halsbandweg,,,,way
 Händelgalerie,,,,way
 Hanfgartenstraße,,,,way
 Hanfweg,,,,way
-"Hanoier Straße",,,,way
 Hansastraße,,,,way
 Hansering,,,,way
 Harfenweg,,,,way
@@ -595,7 +601,6 @@ Kapellenplatz,,,,way
 Karl-Ernst-Weg,,,,way
 Karl-Peter-Straße,,,,way
 "Karlsbader Straße",,,,way
-"Karlsruher Allee",,,,way
 "Kärntner Straße",,,,way
 Karpfenweg,,,,way
 Karzerplan,,,,way
@@ -611,7 +616,6 @@ Kiefernweg,,,,way
 "Kiewer Straße",,,,way
 Kirchberg,,,,way
 Kirchblick,,,,way
-Kirchnerstraße,,,,way
 Kirchstraße,,,,way
 Kirchteichpromenade,,,,way
 Kirchweg,,,,way
@@ -634,7 +638,6 @@ Klausbrücke,,,,way
 "Kleiner Berlin",,,,way
 "Kleiner Sandberg",,,,way
 Kleinschmieden,,,,way
-Kleiststraße,,,,way
 "Klepziger Straße",,,,way
 Klettenweg,,,,way
 "Klingenthaler Straße",,,,way
@@ -659,7 +662,6 @@ Körnerstraße,,,,way
 Kornweg,,,,way
 "Köthener Straße",,,,way
 Kranichweg,,,,way
-"Kranichweg / Naturlehrpfad I",,,,way
 Krausenstraße,,,,way
 Kreuzerstraße,,,,way
 Kreuzotterweg,,,,way
@@ -669,8 +671,6 @@ Kreuzweg,,,,way
 Krienitzstraße,,,,way
 Krienitzweg,,,,way
 Krokusweg,,,,way
-"Kröllwitzer Brücke",,,,way
-"Kröllwitzer Straße",,,,way
 "Krondorfer Straße",,,,way
 Krötenweg,,,,way
 Kuckucksweg,,,,way
@@ -703,7 +703,6 @@ Leunaweg,,,,way
 Libellenweg,,,,way
 Lichtemannsbreite,,,,way
 "Liebenauer Straße",,,,way
-"Lieskauer Straße",,,,way
 "Lieskauer Weg",,,,way
 Ligusterweg,,,,way
 Lilienstraße,,,,way
@@ -712,7 +711,6 @@ Lindenweg,,,,way
 "Linzer Straße",,,,way
 Loberweg,,,,way
 "Lochauer Weg",,,,way
-Louis-Jentzsch-Straße,,,,way
 "Lübecker Platz",,,,way
 Luckengasse,,,,way
 Luisenstraße,,,,way
@@ -722,7 +720,6 @@ Lupinenweg,,,,way
 Luzerneweg,,,,way
 "Magdeburger Chaussee",,,,way
 "Magdeburger Straße",,,,way
-Magnolienweg,,,,way
 Maiglöckchenweg,,,,way
 Maikäferweg,,,,way
 "Mailänder Höhe",,,,way
@@ -746,7 +743,7 @@ Matzwinkel,,,,way
 Mauerstraße,,,,way
 "Meisdorfer Straße",,,,way
 Meisenweg,,,,way
-Melanchthonplatz,,,,way
+Melanchthonplatz,,,,relation
 Merkurstraße,,,,way
 Messestraße,,,,way
 Milanweg,,,,way
@@ -782,8 +779,6 @@ Myrtenweg,,,,way
 Nachtigallensteig,,,,way
 Nachtigallenweg,,,,way
 Narzissenweg,,,,way
-"Naturlehrpfad I",,,,way
-Naturpfad,,,,way
 "Nauendorfer Straße",,,,way
 Nauestraße,,,,way
 Nelkenstraße,,,,way
@@ -953,7 +948,6 @@ Salzbinsenweg,,,,way
 "Salzburger Straße",,,,way
 Salzgrafenplatz,,,,way
 Salzgrafenstraße,,,,way
-"Salzmünder Straße",,,,way
 Salzstraße,,,,way
 Sandberg,,,,way
 Sandbergweg,,,,way
@@ -1152,6 +1146,7 @@ Wachtelweg,,,,way
 Wackenroderstraße,,,,way
 Waidmannsweg,,,,way
 Waisenhausring,,,,way
+Waldhaus,,,,way
 Waldheil,,,,way
 Waldmeisterstraße,,,,way
 Waldstraße,,,,way
@@ -1209,7 +1204,6 @@ Zapfenstraße,,,,way
 Zapfenweg,,,,way
 Zechenhausstraße,,,,way
 Zeisigweg,,,,way
-"Zeitzer Straße",,,,way
 "Zerbster Straße",,,,way
 Zieglerstraße,,,,way
 Zinksgartenstraße,,,,way
