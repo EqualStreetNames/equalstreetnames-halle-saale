@@ -7,6 +7,8 @@ Agavenweg,wikidata,,Q155874,way
 "Bennstedter Straße",wikidata,,Q701140,way
 Bootsweg,wikidata,,Q1420024,way
 "Braunschweiger Bogen",wikidata,,Q2773,way
+"Budapester Straße",wikidata,,Q1781,way
+"Bukarester Straße",wikidata,,Q19660,way
 "Coimbraer Straße",wikidata,,Q45412,way
 Dachsweg,wikidata,,Q27066,way
 "Dölauer Straße",wikidata,,Q1271042,way
@@ -24,6 +26,7 @@ Gertrud-Bergmann-Weg,wikidata,,,way
 Granau,wikidata,,Q1743226,way
 Grashalmstraße,wikidata,,Q1779223,way
 Grasnelkenweg,wikidata,,Q158399,way
+"Grenobler Straße",wikidata,,Q1289,way
 Hagebuttenplatz,wikidata,,Q46740,way
 "Haldenslebener Weg",wikidata,,Q186557,way
 "Hamelner Straße",wikidata,,Q4062,way
@@ -51,6 +54,8 @@ Lunzbergring,wikidata,,Q1282760,way
 Magnolienweg,wikidata,,Q157017,way
 "Meisdorfer Straße",wikidata,,Q876084,way
 "Merseburger Straße",wikidata,,Q14945,way
+"Minsker Straße",wikidata,,Q2280,way
+"Moskauer Straße",wikidata,,Q649,way
 "Murmansker Straße",wikidata,,Q1763,way
 Netzweg,wikidata,,Q271598,way
 Nordstraße,wikidata,,Q659,way
@@ -70,11 +75,13 @@ Schafschwingelweg,wikidata,,Q2229999,way
 "Schönebecker Straße",wikidata,,Q114625,way
 Schulhof,wikidata,,Q3914,way
 "Soltauer Straße",wikidata,,Q504754,way
+"St. Petersburger Straße",wikidata,,Q656,way
 "Stolberger Straße",wikidata,,Q686386,way
 "Teutschenthaler Landstraße",wikidata,,Q538873,way
 "Thaler Weg",wikidata,,Q506460,way
 Vogesenstraße,wikidata,,Q187843,way
 Waldmeisterstraße,wikidata,,Q161090,way
+"Warschauer Straße",wikidata,,Q270,way
 Weidenkätzchenweg,wikidata,,Q36050,way
 "Wippraer Weg",wikidata,,Q701343,way
 "Wolfsburger Straße",wikidata,,Q3014,way
@@ -297,8 +304,6 @@ Brunoswarte,,,,way
 "Brüsseler Straße",,,,way
 Buchenweg,,,,way
 Buchsbaumweg,,,,way
-"Budapester Straße",,,,way
-"Bukarester Straße",,,,way
 Bunastraße,,,,way
 Buntkäferweg,,,,way
 "Burgliebenauer Weg",,,,way
@@ -475,7 +480,6 @@ Graseweg,,,,way
 Grashüpferweg,,,,way
 "Grazer Straße",,,,way
 "Greifswalder Weg",,,,way
-"Grenobler Straße",,,,way
 Grenzstraße,,,,way
 "Greppiner Straße",,,,way
 Grillenweg,,,,way
@@ -764,7 +768,6 @@ Messestraße,,,,way
 Milanweg,,,,way
 Milchstraße,,,,way
 "Mindener Straße",,,,way
-"Minsker Straße",,,,way
 Mispelweg,,,,way
 Mittelstraße,,,,way
 Möckernstraße,,,,way
@@ -775,7 +778,6 @@ Moritzburgring,,,,way
 Moritzkirchhof,,,,way
 Moritzzwinger,,,,way
 Morlstraße,,,,way
-"Moskauer Straße",,,,way
 "Mötzlicher Straße",,,,way
 Möwenstraße,,,,way
 Mühlberg,,,,way
@@ -1041,7 +1043,6 @@ Spiegelstraße,,,,way
 Spitze,,,,way
 Springerweg,,,,way
 Springkrautweg,,,,way
-"St. Petersburger Straße",,,,way
 Stachelbeerweg,,,,way
 Stadelberg,,,,way
 Stadtforststraße,,,,way
@@ -1153,7 +1154,6 @@ Waldhaus,,,,way
 Waldheil,,,,way
 Waldstraße,,,,way
 "Wallendorfer Straße",,,,way
-"Warschauer Straße",,,,way
 Wasserstraße,,,,way
 Wasserweg,,,,way
 "Weg 91",,,,way
@@ -1210,7 +1210,6 @@ Zinksgartenstraße,,,,way
 "Zöberitzer Straße",,,,way
 "Zöberitzer Weg",,,,way
 Zollrain,,,,way
-Zollrainuse_sidepath,,,,way
 "Zörbiger Straße",,,,way
 "Zöschener Straße",,,,way
 "Zscherbener Landstraße",,,,way
