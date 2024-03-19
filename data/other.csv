@@ -42,6 +42,7 @@ Igelweg,wikidata,,Q28257,way
 Karl-Beyer-Straße,wikidata,,Q1730489,way
 "Karlsruher Allee",wikidata,,Q1040,way
 Karpfenweg,wikidata,,Q81110,way
+Kellnerstraße,wikidata,,Q123615405,way
 "Kiewer Straße",wikidata,,Q1899,way
 Kolkturmring,wikidata,,Q1779223,way
 "Köllmer Straße",wikidata,,Q1795720,way
@@ -152,7 +153,7 @@ Alvenslebenweg,,,,way
 "Am Mühlholz",,,,way
 "Am Nordbad",,,,way
 "Am Passendorfer Damm",,,,way
-"Am Rennbahnkreuz",,,,relation
+"Am Rennbahnkreuz",,,,way
 "Am Rosengarten",,,,way
 "Am Sagisdorfer Park",,,,way
 "Am Schenkteich",,,,way
@@ -635,7 +636,6 @@ Kastanienweg,,,,way
 "Kattowitzer Straße",,,,way
 Kaulenberg,,,,way
 Käuzchenweg,,,,way
-Kellnerstraße,,,,way
 Kesselbergweg,,,,way
 Kiefernweg,,,,way
 Kirchberg,,,,way
@@ -842,6 +842,7 @@ Petersbergstraße,,,,way
 "Pfälzer Brücke",,,,way
 "Pfälzer Straße",,,,way
 "Pfälzer Ufer",,,,way
+Pfännereck,,,,way
 Pfännerhöhe,,,,way
 Pfarrgasse,,,,way
 Pfarrstraße,,,,way
@@ -1202,7 +1203,6 @@ Zapfenstraße,,,,way
 Zechenhausstraße,,,,way
 Zeisigweg,,,,way
 Zieglerstraße,,,,way
-Zinksgartenstraße,,,,way
 "Zittauer Straße",,,,way
 "Zöberitzer Straße",,,,way
 "Zöberitzer Weg",,,,way
