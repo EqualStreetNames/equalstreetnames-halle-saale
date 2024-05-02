@@ -168,7 +168,7 @@ Alvenslebenweg,,,,way
 "Am Tagebau",,,,way
 "Am Taubenbrunnen",,,,way
 "Am Teich",,,,way
-"Am Treff",,,,way
+"Am Treff",,,,relation+way
 "Am Tulpenbrunnen",,,,way
 "Am Waldrand",,,,way
 "Am Wasserturm",,,,way
@@ -299,7 +299,6 @@ Bruchfeldweg,,,,way
 Brückenstraße,,,,way
 Brüderstraße,,,,way
 Brühlstraße,,,,way
-"Brunnen ""Am Treff""",,,,relation
 "Brünner Straße",,,,way
 Brunoswarte,,,,way
 "Brüsseler Straße",,,,way
@@ -343,6 +342,7 @@ Dorfplatz,,,,way
 Dorfstraße,,,,way
 "Dornburger Weg",,,,way
 "Dörstewitzer Weg",,,,way
+Drakeweg,,,,way
 Dreierbrücke,,,,way
 Dreililienstraße,,,,way
 "Dresdener Straße",,,,way
@@ -362,6 +362,7 @@ Eidechsenweg,,,,way
 Eierweg,,,,way
 "Eigene Scholle",,,,way
 "Eilenburger Straße",,,,way
+Einheitsweg,,,,way
 Eisenbahnstraße,,,,way
 "Eisenberger Straße",,,,way
 "Eislebener Chaussee",,,,way
@@ -1189,6 +1190,7 @@ Windmühlenstraße,,,,way
 Windmühlenweg,,,,way
 Winterweg,,,,way
 Wipperweg,,,,way
+"Wirtschaftsweg für Haus nr. 9a",,,,way
 "Wismarer Weg",,,,way
 "Wittenberger Straße",,,,way
 "Wolfener Straße",,,,way
